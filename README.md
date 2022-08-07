@@ -7,10 +7,10 @@ The following graph is the graph of Gaussian Process Regression Last Performed i
 The left side is β=2 
 The right side is β=100
 
-![beta=2](beta=2.png)
+![test](test.png)
 
 ![beta=100](beta=100.png)  
 
-![test](test.png)
+
 
 β indicates the hyperparameter of the acquisition function, and the search becomes more important as β increases.
