@@ -11,5 +11,6 @@ The right side is β=100
 
 ![beta=100](beta=100.png)  
 
+![test](test.png)
 
 β indicates the hyperparameter of the acquisition function, and the search becomes more important as β increases.
