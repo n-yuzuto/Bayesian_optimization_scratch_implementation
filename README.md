@@ -8,6 +8,7 @@ The left side is β=2
 The right side is β=100
 
 ![beta=2](beta=2.png)
+
 ![beta=100](beta=100.png)  
 
 
