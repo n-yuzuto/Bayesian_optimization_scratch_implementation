@@ -11,6 +11,8 @@ The below is β=100
 
 ![beta=100](beta=100.png)  
 
+![beta=100.gif](beta=100.gif)
+
 
 
 β indicates the hyperparameter of the acquisition function, and the search becomes more important as β increases.
